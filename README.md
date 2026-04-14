@@ -1,53 +1,40 @@
-<h1 align="center">Hey 👋, I'm Gaurav Sahani</h1>
-<h3 align="center">🚀 Full-Stack Developer | 💡 Problem Solver | 📈 Growing Every Day</h3>
+<!-- HEADER -->
+<h1 align="center">Gaurav Sahani</h1>
+<p align="center">
+  <b>Full-Stack Developer • MERN • DSA • Building Real Products</b>
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gauravsahani&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/badge/Status-Building%20Projects-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-MERN%20%7C%20DSA%20%7C%20System%20Design-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Currently-Building-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-MERN%20%7C%20Backend%20%7C%20DSA-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-success?style=flat-square" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-- 🔭 Currently working on **Full-Stack Projects (MERN Stack)**
-- 🌱 Learning **Backend Development, System Design & Scalable Systems**
-- 🧠 Strong foundation in **DSA & OOP**
-- 🎯 Goal: **Crack a high-paying dev role & build impactful SaaS products**
-- ⚡ Fun fact: **90% debugging, 10% coding 😄**
+<!-- INTRO -->
+## 👋 About
+I’m a developer focused on building **real-world, scalable applications** with clean architecture.
+
+- Building with **MERN Stack**
+- Strong in **DSA & Problem Solving**
+- Learning **Backend + System Design**
+- Goal → **High-impact products + strong dev career**
 
 ---
 
-## 🛠️ Tech Stack
+<!-- TECH STACK -->
+## ⚙️ Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,java,python,cpp,mysql,mongodb,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,js,java,python,cpp,git,linux" />
 </p>
 
 ---
 
-## 🚀 What I'm Building
-- 🔹 Real-time Web Applications  
-- 🔹 AI-powered SaaS Tools  
-- 🔹 Scalable Backend Systems  
-- 🔹 Developer Tools & NPM Packages  
-
----
-
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gauravsahani&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravsahani&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsahani&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📈 Current Focus
+<!-- PROJECT FOCUS -->
+## 🚀 Current Direction
 ```text
-✔ Mastering DSA (Problem Solving)
-✔ Building Production-Level Projects
-✔ Learning System Design
-✔ Improving Communication Skills
+→ Production-ready full stack apps
+→ AI-powered tools & SaaS
+→ Backend systems & APIs
+→ Developer-focused utilities
