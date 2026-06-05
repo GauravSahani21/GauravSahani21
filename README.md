@@ -130,6 +130,18 @@
 
 <br/><br/>
 
+## 🏆 LeetCode Stats
+
+<br/>
+
+<a href="https://leetcode-contribution-calendar-server.vercel.app/svg?username=Gaurav_21102004"><img src="https://leetcode-contribution-calendar-server.vercel.app/svg?username=Gaurav_21102004" alt="LeetCode Stats" width="95%" /></a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/Gaurav_21102004/"><img src="https://leetcard.jacoblin.cool/Gaurav_21102004?theme=dark&font=Fira%20Code" alt="LeetCode Stats" /></a>
+
+<br/><br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GauravSahani21&bg_color=0d001a&color=ff6fd8&line=a855f7&point=38bdf8&area=true&hide_border=true&border_radius=16" width="95%"/>
 
 <br/><br/>
