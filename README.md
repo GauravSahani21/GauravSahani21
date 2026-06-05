@@ -134,11 +134,7 @@
 
 <br/>
 
-<a href="https://leetcode-contribution-calendar-server.vercel.app/svg?username=Gaurav_21102004"><img src="https://leetcode-contribution-calendar-server.vercel.app/svg?username=Gaurav_21102004" alt="LeetCode Stats" width="95%" /></a>
-
-<br/><br/>
-
-<a href="https://leetcode.com/u/Gaurav_21102004/"><img src="https://leetcard.jacoblin.cool/Gaurav_21102004?theme=dark&font=Fira%20Code" alt="LeetCode Stats" /></a>
+<a href="https://leetcode.com/u/Gaurav_21102004/"><img src="https://leetcard.jacoblin.cool/Gaurav_21102004?theme=dark&font=Fira%20Code&extension=heatmap" alt="LeetCode Stats" width="95%" /></a>
 
 <br/><br/>
 
